@@ -2,23 +2,23 @@
     "posts": [
       {
         "name": "Durant",
-        "title": "Bag-Coffee"
+        "drink": "Bag-Coffee"
       },
       {
         "name": "Kobe",
-        "title": "CHina-Tee"
+        "drink": "CHina-Tee"
       },
       {
         "name": "Wide",
-        "title": "Hufe-Pie"
+        "drink": "Hufe-Pie"
       },
       {
         "name": "Smith",
-        "title": "Green-Tee"
+        "drink": "Green-Tee"
       },
       {
         "name": "Curry",
-        "title": "Lquid-Ice"
+        "drink": "Lquid-Ice"
       }
     ],
     "profile": {
