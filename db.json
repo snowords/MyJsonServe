@@ -21,7 +21,64 @@
         "drink": "Lquid-Ice"
       }
     ],
-    "profile": {
-      "namess": "typicode"
+    "component": [{
+  "code": 0,
+  "msg": "",
+  "count": 20,
+  "data": [
+    {
+    "pointName": "MSC(消息中心)",
+    "type": "HTTP Client",
+    "status": "运行中",
+    "connections": 0,
+    "inQueue": 0,
+    "outQueue": 0,
+    "warnQueue": 0,
+    "received": 0,
+    "sent": 0,
+    "warning": 1,
+    "idleTime": "3分钟55秒"
+    },
+    {
+    "pointName": "MSC(消息中心)",
+    "type": "HTTP Client",
+    "status": "运行中",
+    "connections": 0,
+    "inQueue": 0,
+    "outQueue": 0,
+    "warnQueue": 0,
+    "received": 0,
+    "sent": 0,
+    "warning": 1,
+    "idleTime": "3分钟55秒"
+    },
+    {
+    "pointName": "MSC(消息中心)",
+    "type": "HTTP Client",
+    "status": "运行中",
+    "connections": 0,
+    "inQueue": 0,
+    "outQueue": 0,
+    "warnQueue": 0,
+    "received": 0,
+    "sent": 0,
+    "warning": 1,
+    "idleTime": "3分钟55秒"
+    },
+    {
+    "pointName": "MSC(消息中心)",
+    "type": "HTTP Client",
+    "status": "运行中",
+    "connections": 0,
+    "inQueue": 0,
+    "outQueue": 0,
+    "warnQueue": 0,
+    "received": 0,
+    "sent": 0,
+    "warning": 1,
+    "idleTime": "3分钟55秒"
     }
+    
+  ]
+}],
   }
