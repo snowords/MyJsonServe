@@ -1,9 +1,9 @@
 {
   "component": { 
     "code": 0,
-      "msg": "",
-      "count": 20,
-      "data": [
+    "msg": "",
+    "count": 20,
+    "data": [
         {
         "pointName": "MSC(消息中心)",
         "type": "HTTP Client",
@@ -60,9 +60,9 @@
   }, 
   "route": { 
     "code": 0,
-      "msg": "",
-      "count": 20,
-      "data": [
+    "msg": "",
+    "count": 20,
+    "data": [
         {
         "routeName": "ITSM入口路由",
         "status": "运行中",
