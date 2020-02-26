@@ -57,5 +57,91 @@
         "idleTime": "3分钟55秒"
         }
       ]
+  },
+  "route": {
+      "code": 0,
+      "msg": "",
+      "count": 20,
+      "data": [
+        {
+        "routeName": "ITSM入口路由",
+        "status": "运行中",
+        "waiting": 0,
+        "currently": 0,
+        "total": 86,
+        "idleTime": "9分钟55秒"
+        },
+        {
+        "routeName": "ITSM入口路由",
+        "status": "运行中",
+        "waiting": 0,
+        "currently": 0,
+        "total": 86,
+        "idleTime": "9分钟55秒"
+        },
+        {
+        "routeName": "ITSM入口路由",
+        "status": "运行中",
+        "waiting": 0,
+        "currently": 0,
+        "total": 86,
+        "idleTime": "9分钟55秒"
+        },
+        {
+        "routeName": "ITSM入口路由",
+        "status": "运行中",
+        "waiting": 0,
+        "currently": 0,
+        "total": 86,
+        "idleTime": "9分钟55秒"
+        }
+      ]
+  },
+  "web": {
+    "code": 0,
+    "msg": "",
+    "count": 20,
+    "data": [
+      {
+      "webName": "KedauisServices",
+      "status": "运行中",
+      "port": "8080",
+      "protocol": "HTTP",
+      "received": 1727,
+      "sent": 1491,
+      "upTime": "24日",
+      "idleTime": "23日"
+      },
+      {
+      "webName": "KedauisServices",
+      "status": "运行中",
+      "port": "8080",
+      "protocol": "HTTP",
+      "received": 1727,
+      "sent": 1491,
+      "upTime": "24日",
+      "idleTime": "23日"
+      },
+      {
+      "webName": "KedauisServices",
+      "status": "运行中",
+      "port": "8080",
+      "protocol": "HTTP",
+      "received": 1727,
+      "sent": 1491,
+      "upTime": "24日",
+      "idleTime": "23日"
+      },
+      {
+      "webName": "KedauisServices",
+      "status": "运行中",
+      "port": "8080",
+      "protocol": "HTTP",
+      "received": 1727,
+      "sent": 1491,
+      "upTime": "24日",
+      "idleTime": "23日"
+      }
+    ]
   }
 }
