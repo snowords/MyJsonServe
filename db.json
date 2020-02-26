@@ -1,5 +1,5 @@
 {
-  "component": [
+  "component": {
       "code": 0,
       "msg": "",
       "count": 20,
@@ -57,5 +57,5 @@
         "idleTime": "3分钟55秒"
         }
       ]
-  ]
+  }
 }
